@@ -6,7 +6,7 @@ Please be advised that this software tool is not intended for use in any public 
 We explicitly declare that the authors and copyright holders shall not be held responsible for any claims, damages, or other liabilities, regardless of whether they arise from contract issues, tortious acts, or other related matters. This exemption encompasses all aspects of the software's use and subsequent handling.
 
 Users of this software should assess the risks themselves and ensure that their usage complies with applicable laws, regulations, and gaming rules. We remind users to respect the rights of other players and to use the software responsibly and within the bounds of legality.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+_________________________________________________________________________________
 
 免责声明
 
