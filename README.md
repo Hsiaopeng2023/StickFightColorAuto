@@ -7,6 +7,7 @@ We explicitly declare that the authors and copyright holders shall not be held r
 
 Users of this software should assess the risks themselves and ensure that their usage complies with applicable laws, regulations, and gaming rules. We remind users to respect the rights of other players and to use the software responsibly and within the bounds of legality.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 免责声明
 
 请注意，本软件工具不应用于任何形式的公开游戏活动，并且在未得到其他游戏参与者明确同意的情况下，严禁使用。本软件仅用于技术验证目的，并不代表任何形式的游戏辅助或作弊工具。
